@@ -5,6 +5,7 @@ In this chapter, we will review and practice what a Python `class` is.
 For the CMU Examples, if you order them from simplest to most complicated:
 * cmu_test_1.py
 * cmu_test_2.py
+* events_demo.py
 * particles.py
 * road.py
 
